@@ -6,6 +6,12 @@
         "course": "RS101"
     },
     {
+        "_id": "DA101",
+        "name": "Introduction to Damian Analysis",
+        "description": "Basic principles of Damian Analysis and Damian Engines.",
+        "course": "DA101"
+    },
+    {
         "_id": "M102",
         "name": "Fuel and Combustion",
         "description": "Understanding rocket fuel, combustion processes, and efficiency.",
