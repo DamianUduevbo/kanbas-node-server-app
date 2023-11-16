@@ -3,7 +3,7 @@ import hello from "./hello.js";
 import lab5 from "./lab5.js";
 import cors from "cors";
 import courseroutes from "./courses/routes.js";
-import moduleroutes from "./Modules/routes.js";
+import moduleroutes from "./modules/routes.js";
 import "dotenv/config";
 const app = express();
 
